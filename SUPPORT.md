@@ -27,9 +27,11 @@ PUSH TOTAL은 푸시업 100회마다 벽돌을 한 장씩 쌓아 주는 iPhone �
 
 ## 문의 / Contact / お問い合わせ
 
-문제나 버그, 개인정보 관련 문의는 아래 공개 지원 채널에 남겨 주세요. iPhone 모델, iOS 버전, 어떤 상황이었는지 함께 적어 주시면 도움이 돼요.
+문제나 버그, 개인정보 관련 문의는 메일로 보내 주세요. iPhone 모델, iOS 버전, 어떤 상황이었는지 함께 적어 주시면 도움이 돼요.
 
-**[PUSH TOTAL 지원 문의 남기기 / Contact support](https://github.com/kimjaehyeon221/push-total-support/issues/new)**
+**메일 / Email / メール: [upendjh@gmail.com](mailto:upendjh@gmail.com)**
+
+For questions, bugs or privacy requests, email us. 不具合やプライバシーに関するお問い合わせはメールでどうぞ。
 
 ---
 

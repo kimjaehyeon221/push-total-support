@@ -32,7 +32,7 @@ PUSH TOTAL does not collect data from anyone, including children.
 If a future version changes how data is handled, this policy and the App Store privacy label will be updated before that version is released.
 
 ## Contact
-Use the developer contact on the PUSH TOTAL support page or App Store product page.
+Email: upendjh@gmail.com (문의 · お問い合わせ)
 
 ---
 
